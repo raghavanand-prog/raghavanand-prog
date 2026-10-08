@@ -1,145 +1,146 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="526" viewBox="0 0 860 526" role="img" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
 <title>Security posture</title>
 <desc>Hygiene audit of each repo: README, license, security policy, Dependabot, CI and description, graded A to F</desc>
-<rect width="860" height="526" rx="12" fill="#070b14" stroke="#1f3150"/>
-<text x="22" y="30" font-size="12" fill="#5b6b85">$ ./audit --all-repos <tspan fill="#f43f5e">→ overall hygiene 38%</tspan><tspan dx="10">(34/90 controls passing)</tspan></text>
-<rect x="22" y="42" width="816" height="6" rx="3" fill="#0c1322"/>
-<rect x="22" y="42" width="0" height="6" rx="3" fill="#22d3ee"><animate attributeName="width" to="308.3" dur="1.2s" fill="freeze"/></rect>
-<text x="22" y="78" font-size="10" fill="#5b6b85" letter-spacing=".8">REPOSITORY</text>
-<text x="270" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">README</text>
-<text x="352" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">LICENSE</text>
-<text x="434" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">SECURITY</text>
-<text x="516" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">DEPENDABOT</text>
-<text x="598" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">CI</text>
-<text x="680" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">ABOUT</text>
-<text x="820" y="78" text-anchor="middle" font-size="10" fill="#5b6b85" letter-spacing=".8">GRADE</text>
-<rect x="14" y="87" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/PARA_CI-CD"><text x="22" y="104" font-size="12" fill="#cbd5e1">PARA_CI-CD</text></a>
-<text x="270" y="104" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="104" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="434" y="104" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="104" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="104" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="680" y="104" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="90" width="26" height="19" rx="4" fill="#fbbf24" fill-opacity=".15" stroke="#fbbf24" stroke-opacity=".6"/><text x="820" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#fbbf24">C</text>
-<a href="https://github.com/raghavanand-prog/aegis-ai"><text x="22" y="130" font-size="12" fill="#cbd5e1">aegis-ai</text></a>
-<text x="270" y="130" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="130" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="130" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="130" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="130" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="680" y="130" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="116" width="26" height="19" rx="4" fill="#fbbf24" fill-opacity=".15" stroke="#fbbf24" stroke-opacity=".6"/><text x="820" y="130" text-anchor="middle" font-size="12" font-weight="700" fill="#fbbf24">D</text>
-<rect x="14" y="139" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/Customer_360"><text x="22" y="156" font-size="12" fill="#cbd5e1">Customer_360</text></a>
-<text x="270" y="156" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="156" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="156" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="156" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="156" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="680" y="156" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="142" width="26" height="19" rx="4" fill="#fbbf24" fill-opacity=".15" stroke="#fbbf24" stroke-opacity=".6"/><text x="820" y="156" text-anchor="middle" font-size="12" font-weight="700" fill="#fbbf24">D</text>
-<a href="https://github.com/raghavanand-prog/StegoShield"><text x="22" y="182" font-size="12" fill="#cbd5e1">StegoShield</text></a>
-<text x="270" y="182" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="182" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="434" y="182" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="182" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="182" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="182" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="168" width="26" height="19" rx="4" fill="#fbbf24" fill-opacity=".15" stroke="#fbbf24" stroke-opacity=".6"/><text x="820" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#fbbf24">D</text>
-<rect x="14" y="191" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/Argus_IOT"><text x="22" y="208" font-size="12" fill="#cbd5e1">Argus_IOT</text></a>
-<text x="270" y="208" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="208" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="208" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="208" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="208" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="208" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="194" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="208" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<a href="https://github.com/raghavanand-prog/DSA_Leetcode"><text x="22" y="234" font-size="12" fill="#cbd5e1">DSA_Leetcode</text></a>
-<text x="270" y="234" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="234" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="234" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="234" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="234" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="234" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="220" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="234" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<rect x="14" y="243" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/eci-voter-awareness-portal"><text x="22" y="260" font-size="12" fill="#cbd5e1">eci-voter-awareness-portal</text></a>
-<text x="270" y="260" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="260" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="260" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="260" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="260" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="260" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="246" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="260" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<a href="https://github.com/raghavanand-prog/eci-website"><text x="22" y="286" font-size="12" fill="#cbd5e1">eci-website</text></a>
-<text x="270" y="286" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="286" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="286" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="286" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="286" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="286" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="272" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="286" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<rect x="14" y="295" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/ETE_Prac"><text x="22" y="312" font-size="12" fill="#cbd5e1">ETE_Prac</text></a>
-<text x="270" y="312" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="312" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="312" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="312" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="312" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="312" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="298" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="312" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<a href="https://github.com/raghavanand-prog/ForenSight_FileSystem"><text x="22" y="338" font-size="12" fill="#cbd5e1">ForenSight_FileSystem</text></a>
-<text x="270" y="338" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="338" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="338" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="338" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="338" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="338" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="324" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="338" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<rect x="14" y="347" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/FSD-CIA"><text x="22" y="364" font-size="12" fill="#cbd5e1">FSD-CIA</text></a>
-<text x="270" y="364" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="364" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="364" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="364" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="364" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="364" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="350" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="364" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<a href="https://github.com/raghavanand-prog/Next.js"><text x="22" y="390" font-size="12" fill="#cbd5e1">Next.js</text></a>
-<text x="270" y="390" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="390" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="390" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="390" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="390" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="390" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="376" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<rect x="14" y="399" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/posters"><text x="22" y="416" font-size="12" fill="#cbd5e1">posters</text></a>
-<text x="270" y="416" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="416" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="416" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="416" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="416" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="416" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="402" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="416" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<a href="https://github.com/raghavanand-prog/Threat-Manager"><text x="22" y="442" font-size="12" fill="#cbd5e1">Threat-Manager</text></a>
-<text x="270" y="442" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<text x="352" y="442" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="442" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="442" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="442" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="442" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="428" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="442" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<rect x="14" y="451" width="832" height="24" rx="4" fill="#0c1322"/>
-<a href="https://github.com/raghavanand-prog/portfolio"><text x="22" y="468" font-size="12" fill="#cbd5e1">portfolio</text></a>
-<text x="270" y="468" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="352" y="468" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="434" y="468" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="516" y="468" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="598" y="468" text-anchor="middle" font-size="13" fill="#f43f5e" opacity=".75">✘</text>
-<text x="680" y="468" text-anchor="middle" font-size="13" fill="#34d399">✔</text>
-<rect x="807" y="454" width="26" height="19" rx="4" fill="#f43f5e" fill-opacity=".15" stroke="#f43f5e" stroke-opacity=".6"/><text x="820" y="468" text-anchor="middle" font-size="12" font-weight="700" fill="#f43f5e">F</text>
-<text x="22" y="512" font-size="10" fill="#5b6b85">SECURITY = SECURITY.md policy · DEPENDABOT = automated dependency updates · CI = GitHub Actions · ABOUT = description + topics</text>
+<rect width="860" height="526" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
+<text x="22" y="30" font-size="12" fill="#6e6e6e">$ ./audit --all-repos <tspan fill="#4ade80">→ overall hygiene 99%</tspan><tspan dx="10">(89/90 controls passing)</tspan></text>
+<rect x="22" y="42" width="816" height="6" rx="3" fill="#121212"/>
+<rect x="22" y="42" width="806.9" height="6" rx="3" fill="#4ade80"><animate attributeName="width" from="0" to="806.9" dur="1.2s" fill="freeze"/></rect>
+<text x="22" y="78" font-size="10" fill="#6e6e6e" letter-spacing=".8">REPOSITORY</text>
+<text x="270" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">README</text>
+<text x="352" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">LICENSE</text>
+<text x="434" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">SECURITY</text>
+<text x="516" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">DEPENDABOT</text>
+<text x="598" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">CI</text>
+<text x="680" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">ABOUT</text>
+<text x="820" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">GRADE</text>
+<rect x="14" y="87" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/aegis-ai"><text x="22" y="104" font-size="12" fill="#d4d4d4">aegis-ai</text></a>
+<text x="270" y="104" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="104" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="104" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="104" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="104" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="104" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="90" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/Argus_IOT"><text x="22" y="130" font-size="12" fill="#d4d4d4">Argus_IOT</text></a>
+<text x="270" y="130" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="130" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="130" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="130" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="130" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="130" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="116" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="130" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="139" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/Customer_360"><text x="22" y="156" font-size="12" fill="#d4d4d4">Customer_360</text></a>
+<text x="270" y="156" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="156" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="156" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="156" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="156" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="156" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="142" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="156" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/DSA_Leetcode"><text x="22" y="182" font-size="12" fill="#d4d4d4">DSA_Leetcode</text></a>
+<text x="270" y="182" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="182" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="182" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="182" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="182" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="182" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="168" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="191" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/eci-voter-awareness-portal"><text x="22" y="208" font-size="12" fill="#d4d4d4">eci-voter-awareness-portal</text></a>
+<text x="270" y="208" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="208" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="208" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="208" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="208" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="208" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="194" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="208" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/eci-website"><text x="22" y="234" font-size="12" fill="#d4d4d4">eci-website</text></a>
+<text x="270" y="234" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="234" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="234" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="234" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="234" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="234" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="220" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="234" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="243" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/ETE_Prac"><text x="22" y="260" font-size="12" fill="#d4d4d4">ETE_Prac</text></a>
+<text x="270" y="260" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="260" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="260" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="260" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="260" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="260" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="246" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="260" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/ForenSight_FileSystem"><text x="22" y="286" font-size="12" fill="#d4d4d4">ForenSight_FileSystem</text></a>
+<text x="270" y="286" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="286" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="286" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="286" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="286" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="286" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="272" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="286" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="295" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/FSD-CIA"><text x="22" y="312" font-size="12" fill="#d4d4d4">FSD-CIA</text></a>
+<text x="270" y="312" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="312" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="312" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="312" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="312" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="312" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="298" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="312" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/Next.js"><text x="22" y="338" font-size="12" fill="#d4d4d4">Next.js</text></a>
+<text x="270" y="338" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="338" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="338" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="338" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="338" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="338" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="324" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="338" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="347" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/PARA_CI-CD"><text x="22" y="364" font-size="12" fill="#d4d4d4">PARA_CI-CD</text></a>
+<text x="270" y="364" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="364" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="364" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="364" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="364" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="364" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="350" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="364" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/posters"><text x="22" y="390" font-size="12" fill="#d4d4d4">posters</text></a>
+<text x="270" y="390" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="390" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="390" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="390" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="390" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="390" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="376" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="399" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/StegoShield"><text x="22" y="416" font-size="12" fill="#d4d4d4">StegoShield</text></a>
+<text x="270" y="416" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="416" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="416" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="416" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="416" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="416" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="402" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="416" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<a href="https://github.com/raghavanand-prog/Threat-Manager"><text x="22" y="442" font-size="12" fill="#d4d4d4">Threat-Manager</text></a>
+<text x="270" y="442" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="442" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="442" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="442" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="442" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="442" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="428" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="442" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">A</text>
+<rect x="14" y="451" width="832" height="24" rx="4" fill="#121212"/>
+<a href="https://github.com/raghavanand-prog/portfolio"><text x="22" y="468" font-size="12" fill="#d4d4d4">portfolio</text></a>
+<text x="270" y="468" text-anchor="middle" font-size="13" fill="#d64545" opacity=".75">✘</text>
+<text x="352" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="598" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<rect x="807" y="454" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="468" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">B</text>
+<text x="22" y="512" font-size="10" fill="#6e6e6e">SECURITY = SECURITY.md policy · DEPENDABOT = automated dependency updates · CI = GitHub Actions · ABOUT = description + topics</text>
+<defs><pattern id="scanlines" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".028"/></pattern></defs><rect width="860" height="526" rx="10" fill="url(#scanlines)" pointer-events="none"/><path d="M5,19 L5,5 L19,5 M855,19 L855,5 L841,5 M5,507 L5,521 L19,521 M855,507 L855,521 L841,521" fill="none" stroke="#6e6e6e" stroke-width="1.5"/>
 </svg>
