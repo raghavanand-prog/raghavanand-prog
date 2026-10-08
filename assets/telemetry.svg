@@ -2,7 +2,7 @@
 <title>SOC telemetry</title>
 <desc>Live GitHub stats for raghavanand-prog: repos, stars, followers, contributions, streaks, recent pushes and language mix</desc>
 <rect width="860" height="372" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
-<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#4ade80">●</tspan> LIVE · source: api.github.com · last sync 2026-10-08 14:39 UTC</text>
+<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#4ade80">●</tspan> LIVE · source: api.github.com · last sync 2026-10-08 23:26 UTC</text>
 <rect x="22" y="46" width="150" height="74" rx="6" fill="#121212" stroke="#1a1a1a"/>
 <rect x="22" y="46" width="3" height="74" rx="1.5" fill="#e8e8e8"/>
 <text x="36" y="68" font-size="10" fill="#6e6e6e" letter-spacing=".8">REPOSITORIES</text>
@@ -18,7 +18,7 @@
 <rect x="22" y="130" width="150" height="74" rx="6" fill="#121212" stroke="#1a1a1a"/>
 <rect x="22" y="130" width="3" height="74" rx="1.5" fill="#4ade80"/>
 <text x="36" y="152" font-size="10" fill="#6e6e6e" letter-spacing=".8">CONTRIBUTIONS / 1Y</text>
-<text x="36" y="186" font-size="28" font-weight="700" fill="#4ade80">335<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5294;1" dur="0.85s" fill="freeze"/></text>
+<text x="36" y="186" font-size="28" font-weight="700" fill="#4ade80">488<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5294;1" dur="0.85s" fill="freeze"/></text>
 <rect x="182" y="130" width="150" height="74" rx="6" fill="#121212" stroke="#1a1a1a"/>
 <rect x="182" y="130" width="3" height="74" rx="1.5" fill="#e8e8e8"/>
 <text x="196" y="152" font-size="10" fill="#6e6e6e" letter-spacing=".8">ACTIVE REPOS / 30D</text>
@@ -29,29 +29,29 @@
 <text x="356" y="186" font-size="28" font-weight="700" fill="#d64545">Python<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6522;1" dur="1.15s" fill="freeze"/></text>
 <rect x="512" y="46" width="326" height="158" rx="6" fill="#121212" stroke="#1a1a1a"/>
 <text x="526" y="66" font-size="10" fill="#6e6e6e" letter-spacing=".8">EVENT LOG · git push</text>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7500;1" dur="1.20s" fill="freeze"/><text x="526" y="88" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">FSD-CIA: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7931;1" dur="1.45s" fill="freeze"/><text x="526" y="107" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">posters: pushed to magical-wr…</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8235;1" dur="1.70s" fill="freeze"/><text x="526" y="126" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">ForenSight_FileSystem: pushed…</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8462;1" dur="1.95s" fill="freeze"/><text x="526" y="145" font-size="11"><tspan fill="#6e6e6e">10-08 12:53</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">FSD-CIA: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8636;1" dur="2.20s" fill="freeze"/><text x="526" y="164" font-size="11"><tspan fill="#6e6e6e">09-29 06:54</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">portfolio: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8776;1" dur="2.45s" fill="freeze"/><text x="526" y="183" font-size="11"><tspan fill="#6e6e6e">09-29 05:11</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">portfolio: pushed to animated…</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7500;1" dur="1.20s" fill="freeze"/><text x="526" y="88" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Threat-Manager: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7931;1" dur="1.45s" fill="freeze"/><text x="526" y="107" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Next.js: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8235;1" dur="1.70s" fill="freeze"/><text x="526" y="126" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">portfolio: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8462;1" dur="1.95s" fill="freeze"/><text x="526" y="145" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">ETE_Prac: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8636;1" dur="2.20s" fill="freeze"/><text x="526" y="164" font-size="11"><tspan fill="#6e6e6e">10-08 13:39</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">eci-website: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8776;1" dur="2.45s" fill="freeze"/><text x="526" y="183" font-size="11"><tspan fill="#6e6e6e">10-08 12:53</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Threat-Manager: pushed to main</tspan></text></g>
 <text x="22" y="232" font-size="10" fill="#6e6e6e" letter-spacing=".8">PAYLOAD COMPOSITION · bytes of code across my repos</text>
 <clipPath id="bar"><rect x="22" y="244" width="816" height="14" rx="7"/></clipPath><g clip-path="url(#bar)">
-<rect x="22.0" y="244" width="553.4" height="14" fill="#4ade80"/>
-<rect x="575.4" y="244" width="145.5" height="14" fill="#e5e5e5"/>
-<rect x="720.9" y="244" width="42.1" height="14" fill="#737373"/>
-<rect x="763.1" y="244" width="35.7" height="14" fill="#a3a3a3"/>
-<rect x="798.8" y="244" width="13.5" height="14" fill="#525252"/>
-<rect x="812.3" y="244" width="12.5" height="14" fill="#8a8a8a"/>
-<rect x="824.8" y="244" width="6.3" height="14" fill="#bdbdbd"/>
+<rect x="22.0" y="244" width="557.6" height="14" fill="#4ade80"/>
+<rect x="579.6" y="244" width="146.6" height="14" fill="#e5e5e5"/>
+<rect x="726.2" y="244" width="36.3" height="14" fill="#737373"/>
+<rect x="762.5" y="244" width="36.0" height="14" fill="#a3a3a3"/>
+<rect x="798.5" y="244" width="13.6" height="14" fill="#525252"/>
+<rect x="812.1" y="244" width="12.6" height="14" fill="#8a8a8a"/>
+<rect x="824.7" y="244" width="6.4" height="14" fill="#bdbdbd"/>
 <rect x="831.1" y="244" width="6.9" height="14" fill="#6e6e6e"/>
 </g>
 <circle cx="27" cy="280" r="5" fill="#4ade80"/>
-<text x="38" y="284" font-size="12" fill="#d4d4d4">Python <tspan fill="#6e6e6e">67.8%</tspan></text>
+<text x="38" y="284" font-size="12" fill="#d4d4d4">Python <tspan fill="#6e6e6e">68.3%</tspan></text>
 <circle cx="232" cy="280" r="5" fill="#e5e5e5"/>
-<text x="243" y="284" font-size="12" fill="#d4d4d4">TypeScript <tspan fill="#6e6e6e">17.8%</tspan></text>
+<text x="243" y="284" font-size="12" fill="#d4d4d4">TypeScript <tspan fill="#6e6e6e">18.0%</tspan></text>
 <circle cx="437" cy="280" r="5" fill="#737373"/>
-<text x="448" y="284" font-size="12" fill="#d4d4d4">HTML <tspan fill="#6e6e6e">5.2%</tspan></text>
+<text x="448" y="284" font-size="12" fill="#d4d4d4">HTML <tspan fill="#6e6e6e">4.4%</tspan></text>
 <circle cx="642" cy="280" r="5" fill="#a3a3a3"/>
 <text x="653" y="284" font-size="12" fill="#d4d4d4">JavaScript <tspan fill="#6e6e6e">4.4%</tspan></text>
 <circle cx="27" cy="304" r="5" fill="#525252"/>
