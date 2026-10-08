@@ -2,7 +2,7 @@
 <title>Threat intel feed</title>
 <desc>The newest vulnerabilities added to CISA's Known Exploited Vulnerabilities catalog</desc>
 <rect width="860" height="360" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
-<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#d64545">●</tspan> CISA KEV · 1,734 known exploited CVEs tracked · synced 2026-10-08 13:37 UTC</text>
+<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#d64545">●</tspan> CISA KEV · 1,734 known exploited CVEs tracked · synced 2026-10-08 14:39 UTC</text>
 <text x="22" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">ADDED</text>
 <text x="122" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">CVE</text>
 <text x="268" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">VENDOR / PRODUCT</text>
