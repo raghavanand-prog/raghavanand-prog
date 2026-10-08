@@ -1,0 +1,47 @@
+name: Render profile panels
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render panels
+        working-directory: scripts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+        run: |
+          python3 banners.py     "$LOGIN" ../assets
+          python3 telemetry.py   "$LOGIN" ../assets/telemetry.svg
+          python3 topology.py    "$LOGIN" ../assets/topology.svg
+          python3 heartbeat.py   "$LOGIN" ../assets/heartbeat.svg
+          python3 posture.py     "$LOGIN" ../assets/posture.svg
+          python3 attack.py      ../assets/attack.svg
+          python3 threatintel.py ../assets/threatintel.svg || echo "KEV feed unreachable, keeping previous panel"
+
+      - name: Commit if changed
+        run: |
+          git add assets/
+          git diff --cached --quiet && exit 0
+          git config user.name "telemetry-bot"
+          git config user.email "telemetry-bot@users.noreply.github.com"
+          git commit -m "telemetry: refresh panels"
+          git pull --rebase -q
+          git push

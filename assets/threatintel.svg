@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360" role="img" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<title>Threat intel feed</title>
+<desc>The newest vulnerabilities added to CISA's Known Exploited Vulnerabilities catalog</desc>
+<rect width="860" height="360" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
+<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#d64545">●</tspan> CISA KEV · 1,734 known exploited CVEs tracked · synced 2026-10-08 13:37 UTC</text>
+<text x="22" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">ADDED</text>
+<text x="122" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">CVE</text>
+<text x="268" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">VENDOR / PRODUCT</text>
+<text x="508" y="62" text-anchor="start" font-size="10" fill="#6e6e6e" letter-spacing=".8">VULNERABILITY</text>
+<text x="838" y="62" text-anchor="end" font-size="10" fill="#6e6e6e" letter-spacing=".8">RANSOMWARE</text>
+<line x1="22" y1="72" x2="838" y2="72" stroke="#2a2a2a"/>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3636;1" dur="0.55s" fill="freeze"/>
+<rect x="14" y="77" width="832" height="32" rx="5" fill="#121212"/>
+<rect x="14" y="77" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="98" font-size="12" fill="#6e6e6e">2026-10-04</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-88779"><text x="122" y="98" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-88779</text></a>
+<text x="268" y="98" font-size="12" fill="#d4d4d4">Citrix NetScaler</text>
+<text x="508" y="98" font-size="12" fill="#d4d4d4">Citrix NetScaler Improper Restricti…</text>
+<text x="838" y="98" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5205;1" dur="0.73s" fill="freeze"/>
+<rect x="14" y="111" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="132" font-size="12" fill="#6e6e6e">2026-10-02</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-102490"><text x="122" y="132" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-102490</text></a>
+<text x="268" y="132" font-size="12" fill="#d4d4d4">Zammad GmbH Zammad</text>
+<text x="508" y="132" font-size="12" fill="#d4d4d4">Zammad GmbH Zammad Improper Privile…</text>
+<text x="838" y="132" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6154;1" dur="0.91s" fill="freeze"/>
+<rect x="14" y="145" width="832" height="32" rx="5" fill="#121212"/>
+<rect x="14" y="145" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="166" font-size="12" fill="#6e6e6e">2026-10-02</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-102489"><text x="122" y="166" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-102489</text></a>
+<text x="268" y="166" font-size="12" fill="#d4d4d4">Zammad GmbH Zammad</text>
+<text x="508" y="166" font-size="12" fill="#d4d4d4">Zammad GmbH Zammad Session Fixation…</text>
+<text x="838" y="166" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6789;1" dur="1.09s" fill="freeze"/>
+<rect x="14" y="179" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="200" font-size="12" fill="#6e6e6e">2026-10-01</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-104286"><text x="122" y="200" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-104286</text></a>
+<text x="268" y="200" font-size="12" fill="#d4d4d4">Fortinet FortiMail</text>
+<text x="508" y="200" font-size="12" fill="#d4d4d4">Fortinet FortiMail Path Traversal V…</text>
+<text x="838" y="200" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7244;1" dur="1.27s" fill="freeze"/>
+<rect x="14" y="213" width="832" height="32" rx="5" fill="#121212"/>
+<rect x="14" y="213" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="234" font-size="12" fill="#6e6e6e">2026-09-30</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76504"><text x="122" y="234" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-76504</text></a>
+<text x="268" y="234" font-size="12" fill="#d4d4d4">Cisco Catalyst SD-WAN Manager</text>
+<text x="508" y="234" font-size="12" fill="#d4d4d4">Cisco Catalyst SD-WAN Manager Hex E…</text>
+<text x="838" y="234" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7586;1" dur="1.45s" fill="freeze"/>
+<rect x="14" y="247" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="268" font-size="12" fill="#6e6e6e">2026-09-29</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-86950"><text x="122" y="268" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-86950</text></a>
+<text x="268" y="268" font-size="12" fill="#d4d4d4">Apple Multiple Products</text>
+<text x="508" y="268" font-size="12" fill="#d4d4d4">Apple Multiple Products Out-of-Boun…</text>
+<text x="838" y="268" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7853;1" dur="1.63s" fill="freeze"/>
+<rect x="14" y="281" width="832" height="32" rx="5" fill="#121212"/>
+<rect x="14" y="281" width="3" height="32" rx="1.5" fill="#c9a24a"/>
+<text x="22" y="302" font-size="12" fill="#6e6e6e">2026-09-27</text>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-88772"><text x="122" y="302" font-size="12" font-weight="700" fill="#e8e8e8">CVE-2026-88772</text></a>
+<text x="268" y="302" font-size="12" fill="#d4d4d4">Citrix NetScaler</text>
+<text x="508" y="302" font-size="12" fill="#d4d4d4">Citrix NetScaler Improper Restricti…</text>
+<text x="838" y="302" text-anchor="end" font-size="11" fill="#c9a24a">unknown</text></g>
+<text x="838" y="346" text-anchor="end" font-size="10" fill="#6e6e6e">source: cisa.gov/known-exploited-vulnerabilities-catalog · rendered by scripts/threatintel.py</text>
+<defs><pattern id="scanlines" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".028"/></pattern></defs><rect width="860" height="360" rx="10" fill="url(#scanlines)" pointer-events="none"/><path d="M5,19 L5,5 L19,5 M855,19 L855,5 L841,5 M5,341 L5,355 L19,355 M855,341 L855,355 L841,355" fill="none" stroke="#6e6e6e" stroke-width="1.5"/>
+</svg>
