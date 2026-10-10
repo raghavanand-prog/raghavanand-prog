@@ -2,7 +2,7 @@
 <title>SOC telemetry</title>
 <desc>Live GitHub stats for raghavanand-prog: repos, stars, followers, contributions, streaks, recent pushes and language mix</desc>
 <rect width="860" height="372" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
-<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#4ade80">●</tspan> LIVE · source: api.github.com · last sync 2026-10-10 06:02 UTC</text>
+<text x="22" y="30" font-size="12" fill="#6e6e6e"><tspan fill="#4ade80">●</tspan> LIVE · source: api.github.com · last sync 2026-10-10 12:43 UTC</text>
 <rect x="22" y="46" width="150" height="74" rx="6" fill="#121212" stroke="#1a1a1a"/>
 <rect x="22" y="46" width="3" height="74" rx="1.5" fill="#e8e8e8"/>
 <text x="36" y="68" font-size="10" fill="#6e6e6e" letter-spacing=".8">REPOSITORIES</text>
@@ -29,12 +29,12 @@
 <text x="356" y="186" font-size="28" font-weight="700" fill="#d64545">Python<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6522;1" dur="1.15s" fill="freeze"/></text>
 <rect x="512" y="46" width="326" height="158" rx="6" fill="#121212" stroke="#1a1a1a"/>
 <text x="526" y="66" font-size="10" fill="#6e6e6e" letter-spacing=".8">EVENT LOG · git push</text>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7500;1" dur="1.20s" fill="freeze"/><text x="526" y="88" font-size="11"><tspan fill="#6e6e6e">10-08 18:58</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">StegoShield: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7931;1" dur="1.45s" fill="freeze"/><text x="526" y="107" font-size="11"><tspan fill="#6e6e6e">10-08 18:51</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Customer_360: pushed to vigil…</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8235;1" dur="1.70s" fill="freeze"/><text x="526" y="126" font-size="11"><tspan fill="#6e6e6e">10-08 13:40</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">StegoShield: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8462;1" dur="1.95s" fill="freeze"/><text x="526" y="145" font-size="11"><tspan fill="#6e6e6e">10-08 18:48</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">aegis-ai: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8636;1" dur="2.20s" fill="freeze"/><text x="526" y="164" font-size="11"><tspan fill="#6e6e6e">10-08 18:53</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">ETE_Prac: pushed to main</tspan></text></g>
-<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8776;1" dur="2.45s" fill="freeze"/><text x="526" y="183" font-size="11"><tspan fill="#6e6e6e">10-08 18:55</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Next.js: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7500;1" dur="1.20s" fill="freeze"/><text x="526" y="88" font-size="11"><tspan fill="#6e6e6e">10-08 18:58</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Threat-Manager: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7931;1" dur="1.45s" fill="freeze"/><text x="526" y="107" font-size="11"><tspan fill="#6e6e6e">10-08 18:51</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">eci-voter-awareness-portal: p…</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8235;1" dur="1.70s" fill="freeze"/><text x="526" y="126" font-size="11"><tspan fill="#6e6e6e">10-08 18:51</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">Customer_360: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8462;1" dur="1.95s" fill="freeze"/><text x="526" y="145" font-size="11"><tspan fill="#6e6e6e">10-08 18:12</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">portfolio: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8636;1" dur="2.20s" fill="freeze"/><text x="526" y="164" font-size="11"><tspan fill="#6e6e6e">10-08 16:50</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">portfolio: pushed to main</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8776;1" dur="2.45s" fill="freeze"/><text x="526" y="183" font-size="11"><tspan fill="#6e6e6e">10-08 18:58</tspan><tspan dx="8" fill="#4ade80">INFO</tspan><tspan dx="8" fill="#d4d4d4">StegoShield: pushed to main</tspan></text></g>
 <text x="22" y="232" font-size="10" fill="#6e6e6e" letter-spacing=".8">PAYLOAD COMPOSITION · bytes of code across my repos</text>
 <clipPath id="bar"><rect x="22" y="244" width="816" height="14" rx="7"/></clipPath><g clip-path="url(#bar)">
 <rect x="22.0" y="244" width="557.6" height="14" fill="#4ade80"/>
