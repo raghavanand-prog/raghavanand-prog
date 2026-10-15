@@ -98,9 +98,9 @@
 <circle cx="562.3" cy="148.4" r="11.2" fill="none" stroke="#737373"><animate attributeName="r" from="11.2" to="23.2" dur="2.2s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></circle>
 <a href="https://github.com/raghavanand-prog/portfolio"><circle cx="562.3" cy="148.4" r="11.2" fill="#121212" stroke="#737373" stroke-width="2"/><circle cx="562.3" cy="148.4" r="5.0" fill="#737373"/></a>
 <text x="562.3" y="131.3" text-anchor="middle" font-size="11" fill="#d4d4d4">portfolio</text>
-<circle cx="599.3" cy="183.7" r="7.7" fill="none" stroke="#737373"><animate attributeName="r" from="7.7" to="19.7" dur="2.2s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></circle>
-<a href="https://github.com/raghavanand-prog/posters"><circle cx="599.3" cy="183.7" r="7.7" fill="#121212" stroke="#737373" stroke-width="2"/><circle cx="599.3" cy="183.7" r="3.5" fill="#737373"/></a>
-<text x="599.3" y="170.0" text-anchor="middle" font-size="11" fill="#d4d4d4">posters</text>
+<circle cx="599.3" cy="183.7" r="7.8" fill="none" stroke="#737373"><animate attributeName="r" from="7.8" to="19.8" dur="2.2s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<a href="https://github.com/raghavanand-prog/posters"><circle cx="599.3" cy="183.7" r="7.8" fill="#121212" stroke="#737373" stroke-width="2"/><circle cx="599.3" cy="183.7" r="3.5" fill="#737373"/></a>
+<text x="599.3" y="169.9" text-anchor="middle" font-size="11" fill="#d4d4d4">posters</text>
 <circle cx="607.0" cy="224.2" r="9.4" fill="none" stroke="#c9a24a"><animate attributeName="r" from="9.4" to="21.4" dur="2.2s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="1.6s" repeatCount="indefinite"/></circle>
 <a href="https://github.com/raghavanand-prog/DSA_Leetcode"><circle cx="607.0" cy="224.2" r="9.4" fill="#121212" stroke="#c9a24a" stroke-width="2"/><circle cx="607.0" cy="224.2" r="4.2" fill="#c9a24a"/></a>
 <text x="607.0" y="246.6" text-anchor="middle" font-size="11" fill="#d4d4d4">DSA_Leetcode</text>
