@@ -119,9 +119,9 @@
 <circle cx="325.4" cy="293.3" r="8.8" fill="none" stroke="#a3a3a3"><animate attributeName="r" from="8.8" to="20.8" dur="2.2s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="1.6s" repeatCount="indefinite"/></circle>
 <a href="https://github.com/raghavanand-prog/Next.js"><circle cx="325.4" cy="293.3" r="8.8" fill="#121212" stroke="#a3a3a3" stroke-width="2"/><circle cx="325.4" cy="293.3" r="3.9" fill="#a3a3a3"/></a>
 <text x="325.4" y="315.0" text-anchor="middle" font-size="11" fill="#d4d4d4">Next.js</text>
-<circle cx="275.8" cy="263.0" r="8.0" fill="none" stroke="#a3a3a3"><animate attributeName="r" from="8.0" to="20.0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
-<a href="https://github.com/raghavanand-prog/Threat-Manager"><circle cx="275.8" cy="263.0" r="8.0" fill="#121212" stroke="#a3a3a3" stroke-width="2"/><circle cx="275.8" cy="263.0" r="3.6" fill="#a3a3a3"/></a>
-<text x="275.8" y="284.0" text-anchor="middle" font-size="11" fill="#d4d4d4">Threat-Manager</text>
+<circle cx="275.8" cy="263.0" r="8.5" fill="none" stroke="#a3a3a3"><animate attributeName="r" from="8.5" to="20.5" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<a href="https://github.com/raghavanand-prog/Threat-Manager"><circle cx="275.8" cy="263.0" r="8.5" fill="#121212" stroke="#a3a3a3" stroke-width="2"/><circle cx="275.8" cy="263.0" r="3.8" fill="#a3a3a3"/></a>
+<text x="275.8" y="284.5" text-anchor="middle" font-size="11" fill="#d4d4d4">Threat-Manager</text>
 <circle cx="253.0" cy="224.2" r="12.7" fill="none" stroke="#4ade80"><animate attributeName="r" from="12.7" to="24.7" dur="2.2s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
 <a href="https://github.com/raghavanand-prog/aegis-ai"><circle cx="253.0" cy="224.2" r="12.7" fill="#121212" stroke="#4ade80" stroke-width="2"/><circle cx="253.0" cy="224.2" r="5.7" fill="#4ade80"/></a>
 <text x="253.0" y="250.0" text-anchor="middle" font-size="11" fill="#d4d4d4">aegis-ai</text>
