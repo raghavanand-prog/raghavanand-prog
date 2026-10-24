@@ -86,6 +86,7 @@
 
 | case | what it does | stack |
 |---|---|---|
+| 📲 [**HANDit**](https://github.com/raghavanand-prog/HANDit) · [live](https://handit.handit-worker.workers.dev) | Send files directly between any two devices from the browser: a one-time QR code, a sealed introduction the server can't read, encrypted browser-to-browser transfer and SHA-256 proof that every file arrives identical. *In development: v0.1 public test next* | TypeScript · React · Cloudflare Workers |
 | 🛡️ [**ARGUS**](https://github.com/raghavanand-prog/Argus_IOT) | Closed-loop IoT intrusion detection: detect → correlate → explain → enforce → verify, with a hash-chained evidence bundle for every autonomous action | Python · TypeScript |
 | 🤖 [**AEGISX**](https://github.com/raghavanand-prog/aegis-ai) | AI-assisted SOC: live telemetry, versioned rules plus an Isolation Forest, WebSocket streaming and an evidence-grounded AI analyst | Python · PostgreSQL · TS |
 | 🚦 [**Secure AWS CI/CD**](https://github.com/raghavanand-prog/PARA_CI-CD) | A deployed DevSecOps pipeline where SAST, SCA, secrets, IaC and container scans are enforced deploy gates | AWS · Terraform · Docker |
