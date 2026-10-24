@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="526" viewBox="0 0 860 526" role="img" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="552" viewBox="0 0 860 552" role="img" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
 <title>Security posture</title>
 <desc>Hygiene audit of each repo: README, license, security policy, Dependabot, CI and description, graded A to F</desc>
-<rect width="860" height="526" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
-<text x="22" y="30" font-size="12" fill="#6e6e6e">$ ./audit --all-repos <tspan fill="#4ade80">→ overall hygiene 99%</tspan><tspan dx="10">(89/90 controls passing)</tspan></text>
+<rect width="860" height="552" rx="12" fill="#0a0a0a" stroke="#2a2a2a"/>
+<text x="22" y="30" font-size="12" fill="#6e6e6e">$ ./audit --all-repos <tspan fill="#4ade80">→ overall hygiene 97%</tspan><tspan dx="10">(93/96 controls passing)</tspan></text>
 <rect x="22" y="42" width="816" height="6" rx="3" fill="#121212"/>
-<rect x="22" y="42" width="806.9" height="6" rx="3" fill="#4ade80"><animate attributeName="width" from="0" to="806.9" dur="1.2s" fill="freeze"/></rect>
+<rect x="22" y="42" width="790.5" height="6" rx="3" fill="#4ade80"><animate attributeName="width" from="0" to="790.5" dur="1.2s" fill="freeze"/></rect>
 <text x="22" y="78" font-size="10" fill="#6e6e6e" letter-spacing=".8">REPOSITORY</text>
 <text x="270" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">README</text>
 <text x="352" y="78" text-anchor="middle" font-size="10" fill="#6e6e6e" letter-spacing=".8">LICENSE</text>
@@ -141,6 +141,14 @@
 <text x="598" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
 <text x="680" y="468" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
 <rect x="807" y="454" width="26" height="19" rx="4" fill="#4ade80" fill-opacity=".15" stroke="#4ade80" stroke-opacity=".6"/><text x="820" y="468" text-anchor="middle" font-size="12" font-weight="700" fill="#4ade80">B</text>
-<text x="22" y="512" font-size="10" fill="#6e6e6e">SECURITY = SECURITY.md policy · DEPENDABOT = automated dependency updates · CI = GitHub Actions · ABOUT = description + topics</text>
-<defs><pattern id="scanlines" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".028"/></pattern></defs><rect width="860" height="526" rx="10" fill="url(#scanlines)" pointer-events="none"/><path d="M5,19 L5,5 L19,5 M855,19 L855,5 L841,5 M5,507 L5,521 L19,521 M855,507 L855,521 L841,521" fill="none" stroke="#6e6e6e" stroke-width="1.5"/>
+<a href="https://github.com/raghavanand-prog/HANDit"><text x="22" y="494" font-size="12" fill="#d4d4d4">HANDit</text></a>
+<text x="270" y="494" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="352" y="494" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="434" y="494" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="516" y="494" text-anchor="middle" font-size="13" fill="#d64545" opacity=".75">✘</text>
+<text x="598" y="494" text-anchor="middle" font-size="13" fill="#4ade80">✔</text>
+<text x="680" y="494" text-anchor="middle" font-size="13" fill="#d64545" opacity=".75">✘</text>
+<rect x="807" y="480" width="26" height="19" rx="4" fill="#c9a24a" fill-opacity=".15" stroke="#c9a24a" stroke-opacity=".6"/><text x="820" y="494" text-anchor="middle" font-size="12" font-weight="700" fill="#c9a24a">C</text>
+<text x="22" y="538" font-size="10" fill="#6e6e6e">SECURITY = SECURITY.md policy · DEPENDABOT = automated dependency updates · CI = GitHub Actions · ABOUT = description + topics</text>
+<defs><pattern id="scanlines" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".028"/></pattern></defs><rect width="860" height="552" rx="10" fill="url(#scanlines)" pointer-events="none"/><path d="M5,19 L5,5 L19,5 M855,19 L855,5 L841,5 M5,533 L5,547 L19,547 M855,533 L855,547 L841,547" fill="none" stroke="#6e6e6e" stroke-width="1.5"/>
 </svg>
