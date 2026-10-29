@@ -91,9 +91,9 @@
 <circle r="2.6" fill="#e8e8e8"><animateMotion dur="2.30s" repeatCount="indefinite" path="M430.0,214 L304.1,144.7"/></circle>
 <line x1="430.0" y1="214" x2="361.9" y2="123.5" stroke="#e8e8e8" stroke-opacity=".55"/>
 <circle r="2.6" fill="#e8e8e8"><animateMotion dur="2.65s" repeatCount="indefinite" path="M430.0,214 L361.9,123.5"/></circle>
-<circle cx="430.0" cy="116.0" r="12.1" fill="none" stroke="#8a8a8a"><animate attributeName="r" from="12.1" to="24.1" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
-<a href="https://github.com/raghavanand-prog/PARA_CI-CD"><circle cx="430.0" cy="116.0" r="12.1" fill="#121212" stroke="#8a8a8a" stroke-width="2"/><circle cx="430.0" cy="116.0" r="5.5" fill="#8a8a8a"/></a>
-<text x="430.0" y="97.9" text-anchor="middle" font-size="11" fill="#d4d4d4">PARA_CI-CD</text>
+<circle cx="430.0" cy="116.0" r="12.2" fill="none" stroke="#8a8a8a"><animate attributeName="r" from="12.2" to="24.2" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<a href="https://github.com/raghavanand-prog/PARA_CI-CD"><circle cx="430.0" cy="116.0" r="12.2" fill="#121212" stroke="#8a8a8a" stroke-width="2"/><circle cx="430.0" cy="116.0" r="5.5" fill="#8a8a8a"/></a>
+<text x="430.0" y="97.8" text-anchor="middle" font-size="11" fill="#d4d4d4">PARA_CI-CD</text>
 <circle cx="498.1" cy="123.5" r="13.1" fill="none" stroke="#737373"><animate attributeName="r" from="13.1" to="25.1" dur="2.2s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" from=".8" to="0" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
 <a href="https://github.com/raghavanand-prog/eci-website"><circle cx="498.1" cy="123.5" r="13.1" fill="#121212" stroke="#737373" stroke-width="2"/><circle cx="498.1" cy="123.5" r="5.9" fill="#737373"/></a>
 <text x="498.1" y="104.3" text-anchor="middle" font-size="11" fill="#d4d4d4">eci-website</text>
